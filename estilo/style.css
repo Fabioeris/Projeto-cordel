@@ -82,7 +82,6 @@ section.imagem{
 section#img01{
 
     background-image: url(../imagens/background001.jpg);
-    max-width: 800px;
     background-size: cover;
     background-repeat: no-repeat;
     background-size: 100vw;
